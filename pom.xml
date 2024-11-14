@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>sg.edu.nus.iss</groupId>
 	<artifactId>vttp5a-day11l</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>vttp5a-day11l</name>
 	<description>Vttp5a Day11 Lecture</description>
 	<url/>
